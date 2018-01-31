@@ -1,0 +1,11 @@
+<!--jdbc-->
+
+jdbc.driverClassName="com.mysql.jdbc.Driver"
+jdbc.url=""
+jdbc.username="zwj"
+jdbc.password="zwj"
+
+<!-- hibernate -->
+
+
+

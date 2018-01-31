@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+    <Clickbutton>
+        <name>机器人</name>
+        <type>click</type>
+        <key>CLICK_01</key>
+    </Clickbutton>
+
+
+    <Button>
+        <name>菜单二</name>
+        <ClickButton>
+            <type>pic_photo_or_album</type>
+            <name>图片</name>
+            <key>CLICK_02</key>
+        </ClickButton>
+
+        <ViewButton>
+            <type>view</type>
+            <name>百度</name>
+            <url>http://www.baidu.com</url>
+        </ViewButton>
+    </Button>
+
+    <Button>
+        <name>菜单三</name>
+        <ClickButton>
+            <name>自助机器人</name>
+            <type>click</type>
+            <key>CLICK_LING</key>
+        </ClickButton>
+    </Button>
+
+</Menu>
